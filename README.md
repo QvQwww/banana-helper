@@ -79,7 +79,7 @@
 | skipUpList       | [uid,...]    | 跳过投蕉点赞弹幕up列表，一般是一些喜欢刷屏的up（我说的就是你`萌次元`） |
 
 ## 参考说明
-
+ 
 - 部分API参考[Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin)
 - 代码结构参考[JunzhouLiu](https://github.com/JunzhouLiu)
 - 消息通知参考[itning](https://github.com/itning)
